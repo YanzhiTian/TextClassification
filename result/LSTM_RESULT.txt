@@ -1,0 +1,9 @@
+neg : total:  12500  correct:  9785  accuracy:  0.7828
+pos : total:  12500  correct:  9094  accuracy:  0.72752
+
+pos_p:  0.7700906088576509
+pos_r:  0.72752
+pos_f1:  0.74820025504957
+neg_p:  0.7417936471836859
+neg_r:  0.7828
+neg_f1:  0.7617453582966797
