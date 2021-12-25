@@ -2,7 +2,7 @@
 
 作者：田炎智 邮箱：yz_tian113@163.com
 
--aclImdb文件夹中包含训练、测试使用的数据集(请于http://ai.stanford.edu/~amaas/data/sentiment/下载)
+-aclImdb文件夹中包含训练、测试使用的数据集(请于http://ai.stanford.edu/~amaas/data/sentiment/ 下载)
 
 -dict文件夹中包含保存的词典
 
