@@ -12,7 +12,7 @@
 
 ​	-plot包含绘制图片的程序
 
--testClassifierModel包含训练的所有可用模型(模型请见项目的release)
+-textClassifierModel包含训练的所有可用模型(模型请见项目的release)
 
 -app.py 可运行程序入口
 
