@@ -2,7 +2,7 @@
 
 作者：田炎智 邮箱：yz_tian113@163.com
 
--aclImdb文件夹中包含训练、测试使用的数据集
+-aclImdb文件夹中包含训练、测试使用的数据集(请于http://ai.stanford.edu/~amaas/data/sentiment/下载)
 
 -dict文件夹中包含保存的词典
 
@@ -12,7 +12,7 @@
 
 ​	-plot包含绘制图片的程序
 
--testClassifierModel包含训练的所有可用模型
+-testClassifierModel包含训练的所有可用模型(模型请见项目的release)
 
 -app.py 可运行程序入口
 
